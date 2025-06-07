@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Web\\Web.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TelegramBot\\TelegramBot.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
